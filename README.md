@@ -1,4 +1,4 @@
-# get_next_line - Leer Líneas de un File Descriptor
+# Get_next_line - Leer Líneas de un File Descriptor
 
 Este proyecto tiene como objetivo implementar la función `get_next_line` en C, que permite leer líneas de texto de un file descriptor (archivo o entrada estándar) de manera eficiente y dinámica.
 
